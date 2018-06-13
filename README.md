@@ -6,12 +6,12 @@ Creating docs for using latest Node JS & ES6 features. Detailed examples for eac
 
 Topics include:
 
-  C++ addons (napi)
-  Scalability
-  Database/Caching
-  Net (http/https/tcp)
-  Non-blocking IO
-  Streams
-  Processes
-  Node JS overview
+  # C++ addons (napi)
+  # Scalability
+  # Database/Caching
+  # Net (http/https/tcp)
+  # Non-blocking IO
+  # Streams
+  # Processes
+  # Node JS overview
   
