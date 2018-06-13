@@ -1,0 +1,15 @@
+{
+  "name": "node_whitepaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "prettier": {
+    "printWidth": 100,
+    "parser": "flow"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Boese",
+  "license": "ISC"
+}
